@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "ZiFtcTePFRBCUrQmW-eFJ"
+uri = "file://artifacts/soundwave/public/logo.svg"
+type = "image"
+title = "Soundwave Logo"
+
+[[outputs]]
+id = "LOI8O2a-sDazcrIhgm0zS"
+uri = "file://artifacts/soundwave/public/logo.png"
+type = "image"
+title = "Soundwave Logo (PNG)"

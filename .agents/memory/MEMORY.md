@@ -1,0 +1,1 @@
+- [Soundwave platform architecture](soundwave-arch.md) — full-stack Spotify-like app with Clerk auth, Object Storage, Postgres/Drizzle, Express API.
